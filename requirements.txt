@@ -2,4 +2,4 @@ fastapi
 uvicorn[standard]
 kokoro
 soundfile
-numpy
+numpy==2.1.*
